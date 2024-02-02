@@ -9,7 +9,7 @@
     "assembly": {
       "Blazor.AnimateOnScroll.dll": "sha256-+EeVtLAfT8pqJuX\/QKDShFBwyu\/IvLT+SKZnnib5Kr4=",
       "BlazorAnimation.dll": "sha256-ATPnYW3uGejLS4p4gIGT0gPV5yj2d5SBZ6vT3uOFUVM=",
-      "Microsoft.AspNetCore.Components.dll": "sha256-VMNF4TPYnV5se19wHd1a6qENtnbfMajD4l+u4HsZIzU=",
+      "Microsoft.AspNetCore.Components.dll": "sha256-7PzEKQhAz+RiYmmtK+TF\/xgDdcvGk4zmSnWUhjzMVb8=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-I3yIZ2EZBqMURBwFT5C+znprTUFTOAmCRPW2ylCnFJo=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-rmD5fMdSjEPxFQXfuD19beqh+5W1LQWungx0EY1VUQI=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-rKC6GCuMzkmESr2m8q+r862LHeag6Rl5ivFiJ44OU1c=",
@@ -51,7 +51,7 @@
       "System.Text.Json.dll": "sha256-71Q534xGJsK3IYhVR0bPcXcnLnEQRPeUk4scvufZZDk=",
       "System.Text.RegularExpressions.dll": "sha256-1bwQMP0VuycFCBvRPmdv9ecwprE1PwRCONq0P0m+NlA=",
       "System.Threading.Tasks.Extensions.dll": "sha256-VFuz5megZcVkgQNsAfy9h+ZZJEweSSvw5c32RlkTMmA=",
-      "teseractal_web.dll": "sha256-DXE4N6Sbion5WWw\/FIUuRfVKcidaUVpjWrnrNCjOY48="
+      "teseractal_web.dll": "sha256-a1efYLL760bcGcmoaR1T4bA77r7DPH0fCkpvVcRDKlc="
     },
     "extensions": null,
     "lazyAssembly": null,
